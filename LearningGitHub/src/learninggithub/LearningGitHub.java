@@ -17,6 +17,7 @@ public class LearningGitHub {
         // TODO code application logic here
         System.out.println("Hello Git! It's been quite a ride.");
         System.out.println("What else should I learn about git? Oh Yeah!, I need to learn about branching.");
+        System.out.println("Testing the second branch");
     }
     
 }
